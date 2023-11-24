@@ -58,7 +58,7 @@ Empresa                       | Preguntas | Respuestas
 
 --------------------------------------------------------------------------------
 
-## Contributors
+## Contributors 
 
 Agradecimientos y kudos a estas geniales personas ([Simbología de Emojis](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
